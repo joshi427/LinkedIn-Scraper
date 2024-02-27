@@ -1,0 +1,8 @@
+*.csv
+config.py
+# created by virtualenv automatically
+venv/Lib
+
+
+.idea
+__pycache__
